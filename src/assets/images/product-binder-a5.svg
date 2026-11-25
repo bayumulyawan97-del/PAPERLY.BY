@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F6F2EA" />
+  <ellipse cx="300" cy="500" rx="185" ry="24" fill="#243026" opacity="0.1" />
+  <!-- Back cover -->
+  <rect x="122" y="96" width="356" height="392" rx="18" fill="#475E49" />
+  <!-- Left & Right Pages -->
+  <rect x="136" y="110" width="154" height="364" rx="8" fill="#FAF7F2" />
+  <rect x="310" y="110" width="154" height="364" rx="8" fill="#FFFFFF" />
+  <!-- Ruled lines -->
+  <g stroke="#DFE5DC" stroke-width="1.6">
+    <line x1="154" y1="154" x2="272" y2="154" />
+    <line x1="154" y1="184" x2="272" y2="184" />
+    <line x1="154" y1="214" x2="272" y2="214" />
+    <line x1="154" y1="244" x2="272" y2="244" />
+    <line x1="154" y1="274" x2="272" y2="274" />
+    <line x1="154" y1="304" x2="272" y2="304" />
+    <line x1="154" y1="334" x2="272" y2="334" />
+    <line x1="328" y1="154" x2="446" y2="154" />
+    <line x1="328" y1="184" x2="446" y2="184" />
+    <line x1="328" y1="214" x2="446" y2="214" />
+    <line x1="328" y1="244" x2="446" y2="244" />
+    <line x1="328" y1="274" x2="446" y2="274" />
+    <line x1="328" y1="304" x2="446" y2="304" />
+    <line x1="328" y1="334" x2="446" y2="334" />
+  </g>
+  <!-- Divider Tabs -->
+  <rect x="462" y="136" width="22" height="44" rx="5" fill="#E59065" />
+  <rect x="462" y="192" width="22" height="44" rx="5" fill="#8FA891" />
+  <rect x="462" y="248" width="22" height="44" rx="5" fill="#D9C3A3" />
+  <!-- Metal Binder Spine & Rings -->
+  <rect x="292" y="106" width="16" height="372" rx="6" fill="#C4CAC4" />
+  <g stroke="#5F6B61" stroke-width="5" fill="none">
+    <ellipse cx="300" cy="146" rx="18" ry="6" />
+    <ellipse cx="300" cy="176" rx="18" ry="6" />
+    <ellipse cx="300" cy="206" rx="18" ry="6" />
+    <ellipse cx="300" cy="266" rx="18" ry="6" />
+    <ellipse cx="300" cy="296" rx="18" ry="6" />
+    <ellipse cx="300" cy="326" rx="18" ry="6" />
+    <ellipse cx="300" cy="386" rx="18" ry="6" />
+    <ellipse cx="300" cy="416" rx="18" ry="6" />
+    <ellipse cx="300" cy="446" rx="18" ry="6" />
+  </g>
+</svg>
+

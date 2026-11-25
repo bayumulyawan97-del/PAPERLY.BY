@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F6F2EA" />
+  <ellipse cx="300" cy="466" rx="195" ry="22" fill="#243026" opacity="0.1" />
+  <!-- Canvas Pencil Case -->
+  <g transform="translate(88 188)">
+    <!-- Zipper pull -->
+    <rect x="378" y="34" width="38" height="14" rx="7" fill="#E59065" />
+    <circle cx="382" cy="41" r="9" fill="#B8C2B8" />
+    <!-- Main Canvas Pouch -->
+    <rect x="0" y="24" width="400" height="222" rx="34" fill="#5F7A61" />
+    <!-- Cream Canvas Base -->
+    <path d="M0 150 H400 V212 C400 231 385 246 366 246 H34 C15 246 0 231 0 212 V150 Z" fill="#EAE2D2" />
+    <!-- Zipper seam -->
+    <line x1="20" y1="42" x2="378" y2="42" stroke="#DCE2D8" stroke-width="6" stroke-dasharray="6 4" stroke-linecap="round" />
+    <!-- Woven Patch Label -->
+    <rect x="148" y="102" width="104" height="44" rx="8" fill="#FAF7F2" stroke="#D5CCBB" stroke-width="2" />
+    <rect x="168" y="120" width="64" height="7" rx="3.5" fill="#475E49" />
+    <!-- Side Handle Loop -->
+    <path d="M0 90 C-26 90 -26 150 0 150" stroke="#475E49" stroke-width="12" stroke-linecap="round" fill="none" />
+  </g>
+</svg>
+

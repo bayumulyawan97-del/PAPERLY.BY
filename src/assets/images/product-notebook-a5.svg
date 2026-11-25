@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F6F2EA" />
+  <ellipse cx="300" cy="495" rx="165" ry="24" fill="#243026" opacity="0.1" />
+  <g transform="translate(155 88)">
+    <!-- Cream page block edge -->
+    <rect x="20" y="14" width="280" height="398" rx="14" fill="#EFE8DA" stroke="#D7CEBC" stroke-width="2" />
+    <rect x="12" y="8" width="280" height="398" rx="14" fill="#FAF7F2" stroke="#DDD6C7" stroke-width="2" />
+    <!-- Hardcover Sage -->
+    <rect x="0" y="0" width="280" height="404" rx="16" fill="#5F7A61" />
+    <rect x="0" y="0" width="26" height="404" rx="8" fill="#475E49" />
+    <line x1="28" y1="8" x2="28" y2="396" stroke="#7A987C" stroke-width="1.5" opacity="0.6" />
+    <!-- Elastic Band -->
+    <rect x="242" y="0" width="12" height="404" fill="#E59065" />
+    <!-- Debossed Label Plate -->
+    <rect x="64" y="92" width="152" height="82" rx="8" fill="#FAF7F2" />
+    <rect x="86" y="118" width="108" height="9" rx="4.5" fill="#475E49" />
+    <rect x="102" y="138" width="76" height="6" rx="3" fill="#8FA891" />
+    <!-- Ribbon bookmark -->
+    <path d="M188 404 L188 446 L200 434 L212 446 L212 404 Z" fill="#E59065" />
+  </g>
+</svg>
+

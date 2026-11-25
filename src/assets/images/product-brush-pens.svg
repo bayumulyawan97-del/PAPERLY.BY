@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F6F2EA" />
+  <ellipse cx="300" cy="496" rx="190" ry="22" fill="#243026" opacity="0.1" />
+  <!-- Storage Box Back -->
+  <rect x="98" y="210" width="404" height="258" rx="18" fill="#EFE8DA" stroke="#D5CCBB" stroke-width="2" />
+  <!-- 12 Brush Pens Row -->
+  <g transform="translate(116 122)">
+    <rect x="0" y="16" width="24" height="260" rx="8" fill="#5F7A61" />
+    <rect x="31" y="8" width="24" height="268" rx="8" fill="#7D9B7F" />
+    <rect x="62" y="16" width="24" height="260" rx="8" fill="#A5BCA6" />
+    <rect x="93" y="8" width="24" height="268" rx="8" fill="#E59065" />
+    <rect x="124" y="16" width="24" height="260" rx="8" fill="#EEB08F" />
+    <rect x="155" y="8" width="24" height="268" rx="8" fill="#D4A359" />
+    <rect x="186" y="16" width="24" height="260" rx="8" fill="#C4B69E" />
+    <rect x="217" y="8" width="24" height="268" rx="8" fill="#8EA6B4" />
+    <rect x="248" y="16" width="24" height="260" rx="8" fill="#6F8694" />
+    <rect x="279" y="8" width="24" height="268" rx="8" fill="#9E8279" />
+    <rect x="310" y="16" width="24" height="260" rx="8" fill="#667368" />
+    <rect x="341" y="8" width="24" height="268" rx="8" fill="#2E3B30" />
+    <!-- Brush Caps -->
+    <rect x="2" y="16" width="20" height="42" rx="6" fill="#FAF7F2" opacity="0.35" />
+    <rect x="95" y="8" width="20" height="42" rx="6" fill="#FAF7F2" opacity="0.35" />
+    <rect x="188" y="16" width="20" height="42" rx="6" fill="#FAF7F2" opacity="0.35" />
+    <rect x="281" y="8" width="20" height="42" rx="6" fill="#FAF7F2" opacity="0.35" />
+  </g>
+  <!-- Box Front Sleeve -->
+  <rect x="98" y="302" width="404" height="166" rx="16" fill="#FAF7F2" stroke="#D5CCBB" stroke-width="2" />
+  <rect x="220" y="352" width="160" height="14" rx="7" fill="#5F7A61" />
+  <rect x="246" y="378" width="108" height="8" rx="4" fill="#E59065" />
+</svg>
+

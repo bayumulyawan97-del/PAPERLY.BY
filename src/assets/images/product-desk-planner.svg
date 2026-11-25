@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F6F2EA" />
+  <ellipse cx="300" cy="500" rx="198" ry="20" fill="#243026" opacity="0.1" />
+  <!-- Cardboard Backing -->
+  <rect x="104" y="102" width="400" height="384" rx="12" fill="#D5C8B2" />
+  <!-- Top Planner Pad -->
+  <rect x="96" y="94" width="400" height="384" rx="10" fill="#FFFFFF" stroke="#DCE2D8" stroke-width="2" />
+  <!-- Header Strip -->
+  <rect x="96" y="94" width="400" height="58" rx="10" fill="#5F7A61" />
+  <rect x="122" y="116" width="134" height="14" rx="7" fill="#FAF7F2" />
+  <rect x="378" y="118" width="90" height="10" rx="5" fill="#E59065" />
+  <!-- Weekly Columns -->
+  <g stroke="#E3E8DF" stroke-width="1.8">
+    <rect x="118" y="172" width="110" height="126" rx="8" fill="#FAF7F2" />
+    <rect x="241" y="172" width="110" height="126" rx="8" fill="#FAF7F2" />
+    <rect x="364" y="172" width="110" height="126" rx="8" fill="#FAF7F2" />
+    <rect x="118" y="314" width="110" height="138" rx="8" fill="#FAF7F2" />
+    <rect x="241" y="314" width="110" height="138" rx="8" fill="#FAF7F2" />
+    <rect x="364" y="314" width="110" height="138" rx="8" fill="#FDF0E9" />
+  </g>
+  <!-- Day Badges -->
+  <rect x="130" y="184" width="54" height="8" rx="4" fill="#5F7A61" />
+  <rect x="253" y="184" width="54" height="8" rx="4" fill="#5F7A61" />
+  <rect x="376" y="184" width="54" height="8" rx="4" fill="#5F7A61" />
+  <rect x="130" y="326" width="54" height="8" rx="4" fill="#5F7A61" />
+  <rect x="253" y="326" width="54" height="8" rx="4" fill="#5F7A61" />
+  <rect x="376" y="326" width="66" height="8" rx="4" fill="#E59065" />
+</svg>
+

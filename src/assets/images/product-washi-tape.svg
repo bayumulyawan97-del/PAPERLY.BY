@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F6F2EA" />
+  <ellipse cx="300" cy="496" rx="180" ry="22" fill="#243026" opacity="0.1" />
+  <!-- 5 Stacked / Arranged Washi Tape Rolls -->
+  <!-- Roll 1 Bottom Back -->
+  <g transform="translate(120 302)">
+    <ellipse cx="90" cy="70" rx="82" ry="82" fill="#5F7A61" />
+    <ellipse cx="90" cy="70" rx="44" ry="44" fill="#EFE8DA" />
+    <ellipse cx="90" cy="70" rx="36" ry="36" fill="#F6F2EA" />
+  </g>
+  <!-- Roll 2 Right Back -->
+  <g transform="translate(296 292)">
+    <ellipse cx="86" cy="74" rx="78" ry="78" fill="#E59065" />
+    <ellipse cx="86" cy="74" rx="42" ry="42" fill="#EFE8DA" />
+    <ellipse cx="86" cy="74" rx="34" ry="34" fill="#F6F2EA" />
+  </g>
+  <!-- Roll 3 Middle Left -->
+  <g transform="translate(154 166)">
+    <ellipse cx="86" cy="74" rx="78" ry="78" fill="#D7C7B0" />
+    <ellipse cx="86" cy="74" rx="42" ry="42" fill="#EFE8DA" />
+    <ellipse cx="86" cy="74" rx="34" ry="34" fill="#F6F2EA" />
+  </g>
+  <!-- Roll 4 Middle Right -->
+  <g transform="translate(268 152)">
+    <ellipse cx="82" cy="72" rx="74" ry="74" fill="#8FA891" />
+    <ellipse cx="82" cy="72" rx="40" ry="40" fill="#EFE8DA" />
+    <ellipse cx="82" cy="72" rx="32" ry="32" fill="#F6F2EA" />
+  </g>
+  <!-- Roll 5 Front Center Cylinder Side -->
+  <g transform="translate(216 254)">
+    <rect x="0" y="0" width="168" height="122" rx="18" fill="#475E49" />
+    <line x1="0" y1="30" x2="168" y2="30" stroke="#FAF7F2" stroke-width="5" opacity="0.45" />
+    <line x1="0" y1="62" x2="168" y2="62" stroke="#E59065" stroke-width="6" opacity="0.8" />
+    <line x1="0" y1="94" x2="168" y2="94" stroke="#FAF7F2" stroke-width="5" opacity="0.45" />
+  </g>
+</svg>
+

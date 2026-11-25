@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F6F2EA" />
+  <ellipse cx="300" cy="495" rx="185" ry="20" fill="#243026" opacity="0.1" />
+  <!-- Soft Orange Sticky Block -->
+  <g transform="translate(238 118) rotate(5)">
+    <rect x="8" y="8" width="210" height="210" rx="12" fill="#ECC0A8" />
+    <rect x="0" y="0" width="210" height="210" rx="12" fill="#FCE5D7" stroke="#F0C7B1" stroke-width="1.5" />
+    <line x1="28" y1="54" x2="176" y2="54" stroke="#E59065" stroke-width="4" stroke-linecap="round" opacity="0.55" />
+    <line x1="28" y1="84" x2="156" y2="84" stroke="#E59065" stroke-width="4" stroke-linecap="round" opacity="0.35" />
+  </g>
+  <!-- Sage Green Sticky Block -->
+  <g transform="translate(116 172) rotate(-5)">
+    <rect x="8" y="8" width="210" height="210" rx="12" fill="#B6C9B7" />
+    <rect x="0" y="0" width="210" height="210" rx="12" fill="#D5E3D2" stroke="#B7CCB6" stroke-width="1.5" />
+    <rect x="26" y="28" width="96" height="9" rx="4.5" fill="#475E49" opacity="0.7" />
+    <rect x="26" y="52" width="142" height="6" rx="3" fill="#5F7A61" opacity="0.45" />
+    <rect x="26" y="70" width="124" height="6" rx="3" fill="#5F7A61" opacity="0.45" />
+  </g>
+  <!-- Page Marker Index Tabs Strip -->
+  <g transform="translate(136 392)">
+    <rect x="0" y="0" width="328" height="72" rx="12" fill="#FFFFFF" stroke="#DCE2D8" stroke-width="2" />
+    <rect x="20" y="18" width="50" height="36" rx="6" fill="#5F7A61" />
+    <rect x="80" y="18" width="50" height="36" rx="6" fill="#8FA891" />
+    <rect x="140" y="18" width="50" height="36" rx="6" fill="#E59065" />
+    <rect x="200" y="18" width="50" height="36" rx="6" fill="#F2B89A" />
+    <rect x="260" y="18" width="50" height="36" rx="6" fill="#D9C8AE" />
+  </g>
+</svg>
+

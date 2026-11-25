@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F6F2EA" />
+  <ellipse cx="300" cy="500" rx="180" ry="20" fill="#243026" opacity="0.1" />
+  <!-- 6 Pastel Gel Pens -->
+  <g transform="translate(132 106)">
+    <!-- Pen 1 Sage -->
+    <g transform="translate(0 0)">
+      <rect x="0" y="34" width="32" height="296" rx="10" fill="#5F7A61" />
+      <rect x="4" y="24" width="24" height="68" rx="6" fill="#475E49" />
+      <rect x="26" y="42" width="6" height="44" rx="3" fill="#D5DFD5" />
+      <polygon points="16,374 4,330 28,330" fill="#FAF7F2" />
+      <rect x="14" y="370" width="4" height="14" rx="2" fill="#243026" />
+    </g>
+    <!-- Pen 2 Soft Orange -->
+    <g transform="translate(60 12)">
+      <rect x="0" y="34" width="32" height="296" rx="10" fill="#E59065" />
+      <rect x="4" y="24" width="24" height="68" rx="6" fill="#D57B4E" />
+      <rect x="26" y="42" width="6" height="44" rx="3" fill="#FAF7F2" />
+      <polygon points="16,374 4,330 28,330" fill="#FAF7F2" />
+      <rect x="14" y="370" width="4" height="14" rx="2" fill="#243026" />
+    </g>
+    <!-- Pen 3 Warm Cream -->
+    <g transform="translate(120 0)">
+      <rect x="0" y="34" width="32" height="296" rx="10" fill="#DDD2BF" />
+      <rect x="4" y="24" width="24" height="68" rx="6" fill="#C4B69E" />
+      <rect x="26" y="42" width="6" height="44" rx="3" fill="#FAF7F2" />
+      <polygon points="16,374 4,330 28,330" fill="#FAF7F2" />
+      <rect x="14" y="370" width="4" height="14" rx="2" fill="#243026" />
+    </g>
+    <!-- Pen 4 Dusty Blue -->
+    <g transform="translate(180 12)">
+      <rect x="0" y="34" width="32" height="296" rx="10" fill="#8EA6B4" />
+      <rect x="4" y="24" width="24" height="68" rx="6" fill="#738B99" />
+      <rect x="26" y="42" width="6" height="44" rx="3" fill="#EEF3F5" />
+      <polygon points="16,374 4,330 28,330" fill="#FAF7F2" />
+      <rect x="14" y="370" width="4" height="14" rx="2" fill="#243026" />
+    </g>
+    <!-- Pen 5 Taupe -->
+    <g transform="translate(240 0)">
+      <rect x="0" y="34" width="32" height="296" rx="10" fill="#A6978A" />
+      <rect x="4" y="24" width="24" height="68" rx="6" fill="#8B7C6F" />
+      <rect x="26" y="42" width="6" height="44" rx="3" fill="#F2EDE8" />
+      <polygon points="16,374 4,330 28,330" fill="#FAF7F2" />
+      <rect x="14" y="370" width="4" height="14" rx="2" fill="#243026" />
+    </g>
+    <!-- Pen 6 Charcoal -->
+    <g transform="translate(300 12)">
+      <rect x="0" y="34" width="32" height="296" rx="10" fill="#3B473D" />
+      <rect x="4" y="24" width="24" height="68" rx="6" fill="#243026" />
+      <rect x="26" y="42" width="6" height="44" rx="3" fill="#B7C3B8" />
+      <polygon points="16,374 4,330 28,330" fill="#FAF7F2" />
+      <rect x="14" y="370" width="4" height="14" rx="2" fill="#243026" />
+    </g>
+  </g>
+</svg>
+

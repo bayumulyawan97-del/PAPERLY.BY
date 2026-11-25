@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F6F2EA" />
+  <ellipse cx="300" cy="496" rx="190" ry="22" fill="#243026" opacity="0.1" />
+  <!-- Open B5 Journal -->
+  <rect x="84" y="118" width="432" height="354" rx="14" fill="#D9C8AE" />
+  <rect x="96" y="128" width="202" height="334" rx="6" fill="#FAF7F2" />
+  <rect x="302" y="128" width="202" height="334" rx="6" fill="#FFFFFF" />
+  <line x1="300" y1="128" x2="300" y2="462" stroke="#DCD5C6" stroke-width="3" />
+  <!-- Dot Grid Pattern -->
+  <g fill="#B7C3B8">
+    <circle cx="132" cy="168" r="2.2" /><circle cx="164" cy="168" r="2.2" /><circle cx="196" cy="168" r="2.2" /><circle cx="228" cy="168" r="2.2" /><circle cx="260" cy="168" r="2.2" />
+    <circle cx="132" cy="200" r="2.2" /><circle cx="164" cy="200" r="2.2" /><circle cx="196" cy="200" r="2.2" /><circle cx="228" cy="200" r="2.2" /><circle cx="260" cy="200" r="2.2" />
+    <circle cx="132" cy="232" r="2.2" /><circle cx="164" cy="232" r="2.2" /><circle cx="196" cy="232" r="2.2" /><circle cx="228" cy="232" r="2.2" /><circle cx="260" cy="232" r="2.2" />
+    <circle cx="132" cy="264" r="2.2" /><circle cx="164" cy="264" r="2.2" /><circle cx="196" cy="264" r="2.2" /><circle cx="228" cy="264" r="2.2" /><circle cx="260" cy="264" r="2.2" />
+    <circle cx="132" cy="296" r="2.2" /><circle cx="164" cy="296" r="2.2" /><circle cx="196" cy="296" r="2.2" /><circle cx="228" cy="296" r="2.2" /><circle cx="260" cy="296" r="2.2" />
+    <circle cx="338" cy="168" r="2.2" /><circle cx="370" cy="168" r="2.2" /><circle cx="402" cy="168" r="2.2" /><circle cx="434" cy="168" r="2.2" /><circle cx="466" cy="168" r="2.2" />
+    <circle cx="338" cy="200" r="2.2" /><circle cx="370" cy="200" r="2.2" /><circle cx="402" cy="200" r="2.2" /><circle cx="434" cy="200" r="2.2" /><circle cx="466" cy="200" r="2.2" />
+    <circle cx="338" cy="232" r="2.2" /><circle cx="370" cy="232" r="2.2" /><circle cx="402" cy="232" r="2.2" /><circle cx="434" cy="232" r="2.2" /><circle cx="466" cy="232" r="2.2" />
+    <circle cx="338" cy="264" r="2.2" /><circle cx="370" cy="264" r="2.2" /><circle cx="402" cy="264" r="2.2" /><circle cx="434" cy="264" r="2.2" /><circle cx="466" cy="264" r="2.2" />
+    <circle cx="338" cy="296" r="2.2" /><circle cx="370" cy="296" r="2.2" /><circle cx="402" cy="296" r="2.2" /><circle cx="434" cy="296" r="2.2" /><circle cx="466" cy="296" r="2.2" />
+  </g>
+  <!-- Highlight study header bar -->
+  <rect x="332" y="152" width="120" height="14" rx="7" fill="#E7EFE5" />
+  <rect x="332" y="155" width="76" height="8" rx="4" fill="#5F7A61" />
+  <rect x="128" y="346" width="136" height="80" rx="8" fill="#FDF0E9" stroke="#E59065" stroke-width="1.5" />
+</svg>
+
